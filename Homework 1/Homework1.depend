@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1480544556 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\src\flight.cpp
+	"Flight.h"
+	<iostream>
+
+1480688190 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\include\flight.h
+
+1480688017 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\src\reservationsystem.cpp
+	"ReservationSystem.h"
+	"Flight.h"
+	"Reservation.h"
+	<iostream>
+	<string>
+
+1480688190 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\include\reservationsystem.h
+	"Flight.h"
+	"Reservation.h"
+	<iostream>
+
+1480688049 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\main.cpp
+	<iostream>
+	"ReservationSystem.h"
+
+1480688017 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\src\reservation.cpp
+	"Reservation.h"
+	<iostream>
+	<string>
+
+1480688190 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework1\include\reservation.h
+	"Flight.h"
+
+1480688049 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\main.cpp
+	<iostream>
+	"ReservationSystem.h"
+
+1480688190 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\include\reservationsystem.h
+	"Flight.h"
+	"Reservation.h"
+	<iostream>
+
+1480688190 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\include\flight.h
+
+1480688190 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\include\reservation.h
+	"Flight.h"
+
+1480688190 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\src\flight.cpp
+	"Flight.h"
+	<iostream>
+
+1480688190 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\src\reservation.cpp
+	"Reservation.h"
+	<iostream>
+	<string>
+
+1480688190 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 1\homework 1\src\reservationsystem.cpp
+	"ReservationSystem.h"
+	"Flight.h"
+	"Reservation.h"
+	<iostream>
+	<string>
+

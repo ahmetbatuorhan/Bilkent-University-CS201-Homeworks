@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1484154696 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\main.cpp
+	"JukeBox.h"
+	<iostream>
+	<cstdio>
+
+1484154971 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\src\musicianlinkedlist.cpp
+	"MusicianLinkedList.h"
+	<bits/stdc++.h>
+	<cctype>
+	<string>
+
+1484153226 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\include\musicianlinkedlist.h
+	<iostream>
+
+1484154971 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\src\tracklinkedlist.cpp
+	"TrackLinkedList.h"
+	"MusicianLinkedList.h"
+	<iostream>
+
+1484153502 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\include\tracklinkedlist.h
+	<iostream>
+	"MusicianLinkedList.h"
+
+1484149356 source:c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\src\jukebox.cpp
+	"JukeBox.h"
+	"TrackLinkedList.h"
+	<iostream>
+
+1484149316 c:\users\ahmet batu\desktop\dersler\cs201\homeworks\hw 3\homework3\include\jukebox.h
+	"TrackLinkedList.h"
+	<iostream>
+
